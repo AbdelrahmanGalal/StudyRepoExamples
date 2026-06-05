@@ -26,13 +26,6 @@ This repository is intended as a learning resource for developers who want to ex
 - File I/O
 - Reflection
 
-### Spring Framework
-
-- Dependency Injection (DI)
-- Inversion of Control (IoC)
-- Bean Lifecycle
-- Configuration Management
-
 ### Spring Boot
 
 - REST APIs
@@ -42,29 +35,6 @@ This repository is intended as a learning resource for developers who want to ex
 - Exception Handling
 - Logging
 - Testing
-
-### Data Access
-
-- Spring Data JPA
-- Hibernate
-- Entity Relationships
-- Query Methods
-- Transactions
-- Database Migrations
-
-### Security
-
-- Spring Security
-- Authentication
-- Authorization
-- JWT
-- Role-Based Access Control
-
-### Messaging & Integration
-
-- Kafka
-- RabbitMQ
-- Event-Driven Architecture
 
 ### Testing
 
@@ -95,11 +65,6 @@ This repository is intended as a learning resource for developers who want to ex
 │   ├── collections/
 │   ├── streams/
 │   ├── concurrency/
-│   └── ...
-│
-├── spring/
-│   ├── dependency-injection/
-│   ├── bean-lifecycle/
 │   └── ...
 │
 ├── spring-boot/
@@ -187,18 +152,6 @@ Each example focuses on:
 4. Best practices where applicable
 5. Easy experimentation and modification
 
-## Contributing
-
-Contributions are welcome.
-
-When adding a new example:
-
-1. Create a dedicated folder for the topic.
-2. Keep the example focused on a single concept.
-3. Add a README explaining the implementation.
-4. Include instructions for running the example.
-5. Add tests when relevant.
-
 ## Future Topics
 
 - Microservices
@@ -210,10 +163,6 @@ When adding a new example:
 - Reactive Programming (WebFlux)
 - GraphQL
 - Performance Optimization
-
-## License
-
-This repository is provided for educational purposes. Use the examples freely for learning and experimentation.
 
 ---
 
